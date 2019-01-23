@@ -68,6 +68,12 @@ Sarah El Deeb | [@seldeeb](https://twitter.com/seldeeb) | MENA
 ## Websites
 Name |  Website | Focus
 ---- | -------- | -----
+Combating Terrorism Center | [ctc.usma.edu](https://ctc.usma.edu/) | Terrorism, Counterterrorism
+Long War Journal | [longwarjournal.org](https://www.longwarjournal.org/) | Terrorism, Counterterrorism
+Institute for the Study of War | [ISW on Blogspot](https://iswresearch.blogspot.com/) | Foreign Affairs
+War on the Rocks | [warontherocks.com](https://warontherocks.com) | Foreign Affairs
+War Is Boring | [warisboring.com](https://warisboring.com/) | Foreign Affairs
+Bellingcat | [bellingcat.com](https://www.bellingcat.com/) | 
 
 ## Podcasts
 Name | Twitter / Website | Focus
