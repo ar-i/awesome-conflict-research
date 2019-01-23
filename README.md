@@ -44,7 +44,8 @@ Elisabeth Tsurkov | [@Elizrael](https://twitter.com/Elizrael) | MENA
 INTELLIPUS | [@intellipus](https://twitter.com/intellipus) | Intelligence
 Qalaat Al Mudiq | [@QalaatAlMudiq](https://twitter.com/QalaatAlMudiq) | Syria
 Free Crimea | [@FreeCrimea19](https://twitter.com/FreeCrimea19) | Jihadism
-
+Hampton Stall | [@HamptonStall](https://twitter.com/HamptonStall) | Syria
+Armory Bazaar | [@ArmoryBazaar](https://twitter.com/ArmoryBazaar) | arms
 
 ## Journalists
 Name | Twitter / Website | Focus
@@ -64,6 +65,8 @@ Maya Gebeily | [@GebeilyM](https://twitter.com/GebeilyM) | MENA
 Hemen Abdulla | [@HemenAbdulla](https://twitter.com/HemenAbdulla) | MENA
 Joe Truzman | [@Jtruzmah](https://twitter.com/Jtruzmah) | Israel, Gaza
 Sarah El Deeb | [@seldeeb](https://twitter.com/seldeeb) | MENA
+Aris Roussinos | [@arisroussinos](https://twitter.com/arisroussinos) | 
+John Arterbury | [@JohnArterbury](https://twitter.com/JohnArterbury) | Syria, Yemen
 
 ## Websites
 Name |  Website | Focus
@@ -74,6 +77,8 @@ Institute for the Study of War | [ISW on Blogspot](https://iswresearch.blogspot.
 War on the Rocks | [warontherocks.com](https://warontherocks.com) | Foreign Affairs
 War Is Boring | [warisboring.com](https://warisboring.com/) | Foreign Affairs
 Bellingcat | [bellingcat.com](https://www.bellingcat.com/) | 
+International Review | [international-review.org](https://international-review.org/) | MENA
+The Defense Post | [thedefensepost.com](https://thedefensepost.com/) |
 
 ## Podcasts
 Name | Twitter / Website | Focus
