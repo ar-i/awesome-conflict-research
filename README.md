@@ -40,6 +40,10 @@ Calibre Obscura | [@CalibreObscura](https://twitter.com/calibreobscura) | MENA, 
 Sasha Ghosh-Sminioff | [@SSiminoff](https://twitter.com/SSiminoff) | MENA
 Nick Waters | [@N_Waters89](https://twitter.com/N_Waters89) | MENA, drone strikes
 Blake Vincent | [@coldwarcrush](https://twitter.com/coldwarcrush) | MENA
+Elisabeth Tsurkov | [@Elizrael](https://twitter.com/Elizrael) | MENA
+INTELLIPUS | [@intellipus](https://twitter.com/intellipus) | Intelligence
+Qalaat Al Mudiq | [@QalaatAlMudiq](https://twitter.com/QalaatAlMudiq) | Syria
+Free Crimea | [@FreeCrimea19](https://twitter.com/FreeCrimea19) | Jihadism
 
 
 ## Journalists
@@ -57,6 +61,9 @@ Danny Gold | [@DGisSERIOUS](https://twitter.com/DGisSERIOUS) |
 Matthew Gault | [@mjgault](https://twitter.com/mjgault) |
 Valerie Plesch | [@ValeriePlesch](https://twitter.com/ValeriePlesch) | Balkans, Afghanistan
 Maya Gebeily | [@GebeilyM](https://twitter.com/GebeilyM) | MENA
+Hemen Abdulla | [@HemenAbdulla](https://twitter.com/HemenAbdulla) | MENA
+Joe Truzman | [@Jtruzmah](https://twitter.com/Jtruzmah) | Israel, Gaza
+Sarah El Deeb | [@seldeeb](https://twitter.com/seldeeb) | MENA
 
 ## Websites
 Name |  Website | Focus
@@ -67,6 +74,7 @@ Name | Twitter / Website | Focus
 ---- | ----------------- | -----
 War College | [@War_College](https://twitter.com/War_College) | Modern conflicts
 Popular Front | [@popularfrontco](https://twitter.com/popularfrontco) | Modern conflicts
+Modern War Institute | [Website](https://modernwarinstitute.libsyn.com/) | Modern conflicts
 
 ## License
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/) license.
