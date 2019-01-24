@@ -45,7 +45,10 @@ INTELLIPUS | [@intellipus](https://twitter.com/intellipus) | Intelligence
 Qalaat Al Mudiq | [@QalaatAlMudiq](https://twitter.com/QalaatAlMudiq) | Syria
 Free Crimea | [@FreeCrimea19](https://twitter.com/FreeCrimea19) | Jihadism
 Hampton Stall | [@HamptonStall](https://twitter.com/HamptonStall) | Syria
-Armory Bazaar | [@ArmoryBazaar](https://twitter.com/ArmoryBazaar) | arms
+Armory Bazaar | [@ArmoryBazaar](https://twitter.com/ArmoryBazaar) | Arms
+Rita Konaev | [@RitaKonaev](https://twitter.com/RitaKonaev) | MENA, Russia
+Matt Wheeler | [@mattzwheeler](https://twitter.com/mattzwheeler) | SEA
+Sulaiman P. | [@DreamF4ll](https://twitter.com/DreamF4ll) MENA
 
 ## Journalists
 Name | Twitter / Website | Focus
@@ -79,6 +82,12 @@ War Is Boring | [warisboring.com](https://warisboring.com/) | Foreign Affairs
 Bellingcat | [bellingcat.com](https://www.bellingcat.com/) | 
 International Review | [international-review.org](https://international-review.org/) | MENA
 The Defense Post | [thedefensepost.com](https://thedefensepost.com/) |
+Conflict Armament Research | [conflictarm.com](http://www.conflictarm.com/) | Arms
+Modern War Institute | [mwi.usma.edu](https://mwi.usma.edu/) |
+ARES | [armamentresearch.com](http://armamentresearch.com/) | Arms
+Small Arms Survey | [smallarmssurvey.com](http://www.smallarmssurvey.org/) | Arms
+Syrian Civil War Map | [syriancivilwarmap.com](https://syriancivilwarmap.com/) | Syria
+Islamism Map | [islamism-map.com](https://islamism-map.com/#/) | Islamism
 
 ## Podcasts
 Name | Twitter / Website | Focus
