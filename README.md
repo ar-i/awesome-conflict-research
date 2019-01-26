@@ -88,6 +88,7 @@ ARES | [armamentresearch.com](http://armamentresearch.com/) | Arms
 Small Arms Survey | [smallarmssurvey.com](http://www.smallarmssurvey.org/) | Arms
 Syrian Civil War Map | [syriancivilwarmap.com](https://syriancivilwarmap.com/) | Syria
 Islamism Map | [islamism-map.com](https://islamism-map.com/#/) | Islamism
+The Soufan Center | [thesoufancenter.org](http://thesoufancenter.org) | Islamism, MENA
 
 ## Podcasts
 Name | Twitter / Website | Focus
