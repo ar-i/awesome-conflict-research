@@ -89,6 +89,7 @@ Small Arms Survey | [smallarmssurvey.com](http://www.smallarmssurvey.org/) | Arm
 Syrian Civil War Map | [syriancivilwarmap.com](https://syriancivilwarmap.com/) | Syria
 Islamism Map | [islamism-map.com](https://islamism-map.com/#/) | Islamism
 The Soufan Center | [thesoufancenter.org](http://thesoufancenter.org) | Islamism, MENA
+Jihadology | [jihadology.net](https://jihadology.net) | Islamism
 
 ## Podcasts
 Name | Twitter / Website | Focus
